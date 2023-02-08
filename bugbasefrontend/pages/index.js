@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import styles from "./index.module.css";
 
-const ip = "192.168.29.5";
+const ip = "localhost";
 
 const Index = () => {
   const [input, setInput] = useState({
