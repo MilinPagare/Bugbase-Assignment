@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.filterContainer {
+    display: flex;
+    text-align: center;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.liEle {
+    background-color: lightgray;
+    list-style: none;
+}
